@@ -22,4 +22,5 @@ THEN that will be shown on the page, and added to their transaction history when
 * Frontend (HTML, CSS, JavaScript)
 * Backend (Node.js, Express, MongoDB, Mongoose)
 
+## Demo
 ![Demo](public/assets/imgs/demo.png)
